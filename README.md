@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Ganesh Patil</h1>
 <h3 align="center">Design and Development </h3>
-<p align="center"> <img src="https://pbs.twimg.com/profile_banners/1436699642888998919/1636400211/600x200" > </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshpatil386386&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshpatil386386" /> </p>
 
