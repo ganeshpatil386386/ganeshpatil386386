@@ -1,6 +1,6 @@
 
 <h1>Hey there ,<img height=50px width= 120px src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"> I'm Ganesh </h1>
-
+![](https://komarev.com/ghpvc/?username=your-github-ganeshpatil386386&label=PROFILE+VIEWS)
 <p>  Developer | Open-Source Enthusiast | Content Creator | Computer Science Student </p>
 
 
