@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there ,<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"> I'm Ganesh </h1>
+<h1 align="center">Hey there ,<img height=80px width= 100px src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"> I'm Ganesh </h1>
 
 <p>  Developer | Open-Source Enthusiast | Content Creator | Computer Science Student </p>
 
@@ -8,9 +8,9 @@
 
 - 📝 I regularly write articles about web development on [hashnode](https://hashnode.com/@patilganesh1010)
 
-- 🎯 Willing to work on more open source projects and collaboration with other developers
+- 🎯 Seeking for collaborate with other Developer's
 
-- ✈️ Visit out my [Personal Github Showcase](https://ganesh-githubshowcase.netlify.app/)
+- ✈️ Visit to my [Personal Github Showcase](https://ganesh-githubshowcase.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 
