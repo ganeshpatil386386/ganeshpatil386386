@@ -1,6 +1,6 @@
 
 <h1>Hey there ,
-<img height=50px src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"> I'm <a href="https://linktr.ee/ganeshpatil0101)">Ganesh! </a>  </h1>
+<img height=50px src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"> I'm <a href="https://linktr.ee/ganeshpatil0101">Ganesh! </a>  </h1>
   
 
 
