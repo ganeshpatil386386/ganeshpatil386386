@@ -29,7 +29,7 @@
 
 <h2> Technical Content Contributions </h2>
 
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/patilganesh/articles)
+- Tech Writer [GeeksforGeeks](https://auth.geeksforgeeks.org/user/patilganesh/articles)
 - Tech Contributor [aviyel](https://aviyel.com/@ganeshpatil) 
 - Technical Writer [codedmn](https://codedamn.com/news/javascript/reverse-a-string)
 - Freelance Writer [Hashnode](https://hashnode.com/@patilganesh1010)
