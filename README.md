@@ -61,7 +61,7 @@
 ![aviyelverse rewards](https://aviyel.com/assets/uploads/rewards/share/user/3429/readme/54.png)
 <!--   Sponsorship -->
   
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Ganesh1010)
+
 
 
 
