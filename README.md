@@ -5,7 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-ganeshpatil386386&style=flat-square)
 
-<p>  I am self-taught programmer from India currently hacking on Web dev technologies and web tech stacks. Contributes to open source community with code and non-code contributions. Technical writer at <a href ="https://aviyel.com/search?term=ganesh"> aviyel <a> improving quality of software applications with contributions, developing interactive and quality UI components for websites. | Open-Source Enthusiast | DevOps | Community | Content Creator | Computer Science Student </p>
+<p>  I am Ganesh junior developer from India currently hacking on Web dev technologies and web tech stacks. Contributing to open source community with code and non-code contributions. Community Manager at <a href ="https://aviyel.com/search?term=ganesh"> aviyel <a> improving quality of software applications by contributing to openosurce projects.
+Open-Source Enthusiast | DevOps | Community | Content Creator | Computer Science Student </p>
 
 
 - 🌱 I’m currently learning **Full Stack Development** and Building open source community [Developers_Source](https://github.com/developerssource)
