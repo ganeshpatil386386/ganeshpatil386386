@@ -25,7 +25,7 @@ Open-Source Enthusiast | DevOps | Community | Content Creator | Computer Science
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patilganesh1010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshpatil386386) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ganeshstwt)  [![Showwcase](https://img.shields.io/badge/Showwcase-%231DA1F2.svg?logoColor=black)](https://www.showwcase.com/patilganesh0101)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ganeshstwt)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patilganesh1010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshpatil386386)   [![Showwcase](https://img.shields.io/badge/Showwcase-%231DA1F2.svg?logoColor=black)](https://www.showwcase.com/patilganesh0101)
 [![Youtube](https://img.shields.io/badge/Youtube-%231DA1F2.svg?logoColor=red)](https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ) 
 
 
