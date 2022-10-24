@@ -1,5 +1,15 @@
 
-# :wave: Hello <b>developers</b>, I am <b> <a href="https://linktr.ee/ganeshpatil0101">Ganesh Patil </a></b>
+<h3 align="center"> Hey! 👋  I am Ganesh Patil </h3>
+
+<p align="center">
+  <a href="https://dev.to/patilganesh1010/">My Blog</a> |
+  <a href="https://twitter.com/ganeshstwt">Twitter</a> |
+  <a href="https://www.linkedin.com/in/ganeshpatil386386/">LinkedIn</a> |
+  <a href="https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ">YouTube</a> |
+  <a href="https://www.polywork.com/patilganesh1010"> Polywork Profile </a>
+</p>
+
+---
  
 
 
