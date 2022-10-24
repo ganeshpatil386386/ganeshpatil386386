@@ -42,7 +42,7 @@ I strive to be better by learning, reading, and building healthy relationships. 
 * [More Writings...](https://aviyel.com/search?term=\*&uid=3429&root=blog)
 
 
-
+<h3 align="center"> Keep Learning! 🎯 </h3>
 
 
 
