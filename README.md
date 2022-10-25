@@ -48,9 +48,17 @@ I strive to be better by learning, reading, and building healthy relationships. 
 
 ## <a href="https://dev.to/patilganesh1010"><img src="https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/img/dev-black.png" title="DEV" alt="DEV" width="20"/></a> Recent Articles on DEV.to 
  <!-- DEVTO-BLOG-LIST:START -->
+ 
+ - [Closer Look At Keploy](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
+ - [A Practical Guide to Brain JS](https://dev.to/patilganesh1010/a-practical-guide-to-brainjs-nfk)
+ - [DevOps Simplified](https://dev.to/patilganesh1010/devops-simplified-j12)
+ - [Closer Look At Novu](https://dev.to/patilganesh1010/closer-look-at-novu-2d1o)
 
 
 ## <a href="https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube
+
+- [Hacktoberfest With Aviyel](https://www.youtube.com/watch?v=hyd_Breo2Gs&t=15s) 
+- [Introductory Video](https://www.youtube.com/watch?v=CI8Y-EJPhso)
 
 ## Buy me a coffee!
 
