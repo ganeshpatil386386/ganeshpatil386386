@@ -10,6 +10,7 @@
 </p>
 
 ---
+
 <p>  
 I am <a href="https://beacons.ai/ganeshpatil">Ganesh Pail</a> from India and now you're here! on my github profile so it's time to introduce myself. 
 
@@ -31,8 +32,11 @@ I strive to be better by learning, reading, and building healthy relationships. 
 - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/ganeshstwt), anyday, anytime.
 
 
-## Recent Writings ✍🏻
 
+
+
+## Recent Articles on Aviyel ✍🏻
+---
 * [Create an internal tool in 5 minutes with the Appsmith platform](https://aviyel.com/post/3642)
 * [How to install and configure Mage-ai locally from the ground up?](https://aviyel.com/post/3622)
 * [ToolJet Architectural Overview Explained](https://aviyel.com/post/3553)
@@ -42,15 +46,15 @@ I strive to be better by learning, reading, and building healthy relationships. 
 * [More Writings...](https://aviyel.com/search?term=\*&uid=3429&root=blog)
 
 
-<h3 align="center"> Keep Learning! 🎯 </h3>
+## <a href="https://dev.to/patilganesh1010"><img src="https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/img/dev-black.png" title="DEV" alt="DEV" width="20"/></a> Recent Articles on DEV.to 
+ <!-- DEVTO-BLOG-LIST:START -->
 
 
+## <a href="https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="English channel" alt="English channel" width="30"/> </a>Recent Videos on YouTube
 
+## Buy me a coffee!
 
-
-
-
-
+<a href="https://www.buymeacoffee.com/Ganesh1010" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 
