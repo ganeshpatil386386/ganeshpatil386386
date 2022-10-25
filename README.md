@@ -30,6 +30,7 @@ I strive to be better by learning, reading, and building healthy relationships. 
 - 📚 Currently Hacking on: Web Development, Community Work, Cloud Computing, System Design.
 - 💬 Ask me about Technical Writing, Web Development, Community Building 🏨.
 - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/ganeshstwt), anyday, anytime.
+- 👨🏻‍🏫 [Join Discord](https://discord.gg/YHC6RcBf)
 
 
 
