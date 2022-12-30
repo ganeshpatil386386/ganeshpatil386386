@@ -21,7 +21,7 @@ I started contributing with creating roadmaps, projects guides and technical doc
 I write code👩🏻‍🏫 with Javascript, Python and sometime Golang. Building projects is the best way to learn programming and that's how coding helps me a lot to solve real time problems. 
 
 I joined [Aviyel](https://aviyel.com/discussions) as a Community Manager where the creative minds work on simplifying opensource and collaborating with other communities for sustainable growth.🎯
-I strive to be better by learning, reading, and building healthy relationships. As a developer and content creator its not easy to manage time but planning and scheduling with right approach helps a lot.⏲
+I strive to be better by learning, reading, and building healthy relationships. As a developer and content creator its not easy to manage time but planning and scheduling with right approach helps a lot.
 
 
  </p>
@@ -30,7 +30,7 @@ I strive to be better by learning, reading, and building healthy relationships. 
 - 📚 Currently Hacking on: Web Development, Community Work, Cloud Computing, System Design.
 - 💬 Ask me about Technical Writing, Web Development, Community Building 🏨.
 - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/ganeshstwt), anyday, anytime.
-- 👨🏻‍🏫 [Join Discord](https://discord.gg/YHC6RcBf)
+
 
 
 
