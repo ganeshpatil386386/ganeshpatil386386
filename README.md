@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-ganeshpatil386386&style=flat-square)
-<h1 align="center"> Hey👋 I'm [Ganesh Patil](https://devgan.me/) </h1>
+<h1 align="center"> Hey👋 I'm <a href="https://devgan.me"> Ganesh Patil </a> </h1>
 
 <p align="center">
   <a href="https://patilganesh1010.hashnode.dev/">My Blog</a> |
