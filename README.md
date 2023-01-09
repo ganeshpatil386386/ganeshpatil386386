@@ -43,7 +43,7 @@
 </tr></tr></table>
 
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/ganeshstwt">
     <img src="https://img.shields.io/twitter/follow/ganeshstwt?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="ganesh Twitter"/>
   </a>
