@@ -23,7 +23,6 @@
 - Build 750+ audience on [Dev Community](https://dev.to/patilganesh1010) with 30k+ views.
 - Exploring opensource communities and creating content in form of article, blogs, videos & tutorials! 
 - Sharing best of my knowledge on [YouTube Channel](https://www.youtube.com/@GaneshsYT). 
-- I am a Community Manager at [aviyel](https://aviyel.com/) 
 - Writing Code & Creating Content for Community. 
  
 </td><td valign="top" width="25%">
