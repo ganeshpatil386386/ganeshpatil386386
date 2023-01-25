@@ -1,3 +1,7 @@
+
+![1st](https://user-images.githubusercontent.com/59861179/214578877-8e21796d-04ff-4e19-96ac-4b73985d3b04.png)
+
+
 ![](https://komarev.com/ghpvc/?username=your-github-ganeshpatil386386&style=flat-square)
 <h1 align="center"> Hey👋 I'm <a href="https://devgan.me"> Ganesh Patil </a> </h1>
 
@@ -11,7 +15,7 @@
 
 ---
 
-![1st](https://user-images.githubusercontent.com/59861179/214578877-8e21796d-04ff-4e19-96ac-4b73985d3b04.png)
+
 
 
 <table><tr><td valign="top" width="75%">
