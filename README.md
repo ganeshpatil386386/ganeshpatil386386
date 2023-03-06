@@ -24,7 +24,7 @@
 
 - I am a Computer Science student from India. 👩🏻‍💻
 - Built 1000+ audience on [Dev Community](https://dev.to/patilganesh1010) with 35k+ unique visitors.✍🏻
-- Exploring opensource communities and creating content in the form of article, blogs, videos & tutorials! 🏆
+- Exploring opensource communities and creating content in the form of articles, blogs, videos & tutorials! 🏆
 - Sharing best of my knowledge on [YouTube Channel](https://www.youtube.com/@GaneshsYT). 
 - Writing Code & Creating Content for Community.🎯
  
