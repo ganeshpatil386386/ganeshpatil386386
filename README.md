@@ -23,10 +23,10 @@
 ## 👨🏻‍🏫 About Me 
 
 - I am a Computer Science student from India. 👩🏻‍💻
-- Build 750+ audience on [Dev Community](https://dev.to/patilganesh1010) with 30k+ views.✍🏻
-- Exploring opensource communities and creating content in form of article, blogs, videos & tutorials! 
+- Built 1000+ audience on [Dev Community](https://dev.to/patilganesh1010) with 35k+ unique visitors.✍🏻
+- Exploring opensource communities and creating content in the form of article, blogs, videos & tutorials! 🏆
 - Sharing best of my knowledge on [YouTube Channel](https://www.youtube.com/@GaneshsYT). 
-- Writing Code & Creating Content for Community. 🎯
+- Writing Code & Creating Content for Community.🎯
  
 </td><td valign="top" width="25%">
 
@@ -61,8 +61,8 @@
 ## <a href="https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Hacktoberfest With Aviyel](https://www.youtube.com/watch?v=hyd_Breo2Gs&t=15s) 
-- [Introductory Video](https://www.youtube.com/watch?v=CI8Y-EJPhso)
+- [How to Find Perfect Developer Roadmap](https://www.youtube.com/watch?v=52biDlBTrhQ&t=206s)
+- [All About Community Work](https://www.youtube.com/watch?v=gxsGZ22oKvI&t=44s)
 - [How To Create Social Profile with Beacons](https://www.youtube.com/watch?v=loYpG7pAD74)
 - [How To Create Stunning GitHub Profile](https://www.youtube.com/watch?v=G8JNpCp8u2g)
 - [Platforms You Should Know As A Developer ](https://www.youtube.com/watch?v=fZ_VDXGwR5c)
@@ -73,9 +73,8 @@
 
 ## <a href="https://dev.to/patilganesh1010"></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
-* [Create an internal tool in 5 minutes with the Appsmith platform](https://aviyel.com/post/3642)
-* [How to install and configure Mage-ai locally from the ground up?](https://aviyel.com/post/3622)
 * [ToolJet Architectural Overview Explained](https://aviyel.com/post/3553)
+* [How to install and configure Mage-ai locally from the ground up?](https://aviyel.com/post/3622)
 * [How to install and configure Devlake?](https://aviyel.com/post/3411)
 * [What are the differences between Apiary vs Docz?](https://aviyel.com/post/3257)
 
