@@ -77,6 +77,7 @@
 * [How to Make Money As a Technical Writer](https://patilganesh1010.hashnode.dev/a-complete-guide-to-make-money-as-a-technical-writer)
 * [How to install and configure Devlake?](https://aviyel.com/post/3411)
 * [How to Master the Art of Content Creation](https://patilganesh1010.hashnode.dev/how-to-master-the-art-of-content-creation-as-a-developer)
+* [How to Get Internship As a Developer](https://patilganesh1010.hashnode.dev/right-approach-to-get-internship-as-a-developer)
 
 
 
