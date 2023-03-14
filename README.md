@@ -73,10 +73,10 @@
 
 ## <a href="https://dev.to/patilganesh1010"></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
-* [ToolJet Architectural Overview Explained](https://aviyel.com/post/3553)
-* [How to install and configure Mage-ai locally from the ground up?](https://aviyel.com/post/3622)
+* [Linux Guide for Beginners](https://patilganesh1010.hashnode.dev/a-complete-guide-to-hackthebox)
+* [How to Make Money As a Technical Writer](https://patilganesh1010.hashnode.dev/a-complete-guide-to-make-money-as-a-technical-writer)
 * [How to install and configure Devlake?](https://aviyel.com/post/3411)
-* [What are the differences between Apiary vs Docz?](https://aviyel.com/post/3257)
+* [How to Master the Art of Content Creation](https://patilganesh1010.hashnode.dev/how-to-master-the-art-of-content-creation-as-a-developer)
 
 
 
