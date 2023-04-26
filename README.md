@@ -71,7 +71,7 @@
  
 </td><td valign="top" width="50%">
 
-## <a href="https://dev.to/patilganesh1010"></a>   Recent Articles on DEV.to     
+## <a href="https://dev.to/ganeshstwt"></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
 * [A Complete Guide to Linux for Beginners](https://patilganesh1010.hashnode.dev/a-complete-guide-to-hackthebox)
 * [How to Make Money As a Technical Writer](https://patilganesh1010.hashnode.dev/a-complete-guide-to-make-money-as-a-technical-writer)
