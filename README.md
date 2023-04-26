@@ -66,6 +66,7 @@
 - [How To Create Social Profile with Beacons](https://www.youtube.com/watch?v=loYpG7pAD74)
 - [How To Create Stunning GitHub Profile](https://www.youtube.com/watch?v=G8JNpCp8u2g)
 - [Platforms You Should Know As A Developer ](https://www.youtube.com/watch?v=fZ_VDXGwR5c)
+- [Game Changing AI Tools for Developers](https://www.youtube.com/watch?v=YiFiw6DydhI&t=6s)
 
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
@@ -78,6 +79,7 @@
 * [How to install and configure Devlake?](https://aviyel.com/post/3411)
 * [How to Master the Art of Content Creation](https://patilganesh1010.hashnode.dev/how-to-master-the-art-of-content-creation-as-a-developer)
 * [How to Get Internship As a Developer](https://patilganesh1010.hashnode.dev/right-approach-to-get-internship-as-a-developer)
+* [Community Manager Role Insights ](https://patilganesh1010.hashnode.dev/community-manager-role-insights)
 
 
 
