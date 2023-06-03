@@ -39,7 +39,6 @@
 - Python
 - Node.js
 - Java
-- Next.js
 - SQL
  
 </tr></tr></table>
