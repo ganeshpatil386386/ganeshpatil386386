@@ -15,7 +15,7 @@
 
 ---
 
-![1st](https://user-images.githubusercontent.com/59861179/214578877-8e21796d-04ff-4e19-96ac-4b73985d3b04.png)
+
 
 
 <table><tr><td valign="top" width="75%">
