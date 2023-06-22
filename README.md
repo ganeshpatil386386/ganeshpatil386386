@@ -45,13 +45,17 @@
 
 
 <p align="left">
-  <a href="https://twitter.com/ganeshstwt">
-    <img src="https://img.shields.io/twitter/follow/ganeshstwt?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="ganesh Twitter"/>
+<a href="https://twitter.com/ganeshstwt">
+    <img src="https://img.shields.io/badge/follow-%40ganeshstwt%20422-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="ganeshstwt Twitter"/>
   </a>
+  
   <a href="https://www.youtube.com/@GaneshsYT">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCjMse2JYXPbtlzcnkbXmVQQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Ganesh YouTube channel"/>
   </a>
+
+ 
 </p>
+
 
 
 
