@@ -24,8 +24,8 @@
 
 - I am a Computer Science student from India. 👩🏻‍💻
 - Built 1000+ audience on [Dev Community](https://dev.to/patilganesh1010) with 40k+ unique visitors.✍🏻
-- Exploring opensource communities and creating content in the form of articles, blogs, videos & tutorials! 🏆
-- Sharing best of my knowledge on [YouTube Channel](https://www.youtube.com/@GaneshsYT). 
+- Exploring open-source communities and creating content through articles, blogs, videos & tutorials! 🏆
+- Sharing my knowledge on [YouTube Channel](https://www.youtube.com/@GaneshsYT). 
 - Writing Code & Creating Content for Community.🎯
  
 </td><td valign="top" width="25%">
@@ -46,7 +46,7 @@
 
 <p align="left">
 <a href="https://twitter.com/ganeshstwt">
-    <img src="https://img.shields.io/badge/follow-%40ganeshstwt%20422-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="ganeshstwt Twitter"/>
+    <img src="https://img.shields.io/badge/follow-%40ganeshstwt%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="ganeshstwt Twitter"/>
   </a>
   
   <a href="https://www.youtube.com/@GaneshsYT">
