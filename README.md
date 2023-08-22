@@ -26,7 +26,7 @@
 - Built 1000+ audience on [Dev Community](https://dev.to/patilganesh1010) with 40k+ unique visitors.✍🏻
 - Exploring open-source communities and creating content through articles, blogs, videos & tutorials! 🏆
 - Sharing my knowledge on [YouTube Channel](https://www.youtube.com/@GaneshsYT)
-- Writing Code & Creating Content for Community 🎯
+- Writing Code & Creating Content for Community. 🎯
  
 </td><td valign="top" width="25%">
 
