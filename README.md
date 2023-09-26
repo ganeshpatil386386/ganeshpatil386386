@@ -10,7 +10,6 @@
   <a href="https://twitter.com/devgancode">Twitter</a> |
   <a href="https://www.linkedin.com/in/devgancode/">LinkedIn</a> |
   <a href="https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ">YouTube</a> |
-  <a href="https://www.polywork.com/patilganesh1010"> Polywork Profile </a>
 </p>
 
 ---
@@ -23,9 +22,9 @@
 ## 👨🏻‍🏫 About Me 
 
 - I am a Computer Science student from India. 👩🏻‍💻
-- Built 1000+ audience on [Dev Community](https://dev.to/patilganesh1010) with 40k+ unique visitors.✍🏻
+- Built 1000+ audience on [Dev Community](https://dev.to/devgancode) with 40k+ unique visitors.✍🏻
 - Exploring open-source communities and creating content through articles, blogs, videos & tutorials! 🏆
-- Sharing my knowledge on [YouTube Channel](https://www.youtube.com/@GaneshsYT)
+- Sharing my knowledge on [YouTube Channel](https://www.youtube.com/@devgancode)
 - Writing Code and creating Content for Community. 🎯
  
 </td><td valign="top" width="25%">
@@ -45,11 +44,11 @@
 
 
 <p align="left">
-<a href="https://twitter.com/ganeshstwt">
+<a href="https://twitter.com/devgancode">
     <img src="https://img.shields.io/badge/follow-%40ganeshstwt%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="ganeshstwt Twitter"/>
   </a>
   
-  <a href="https://www.youtube.com/@GaneshsYT">
+  <a href="https://www.youtube.com/@devgancode">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCjMse2JYXPbtlzcnkbXmVQQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Ganesh YouTube channel"/>
   </a>
 
@@ -77,12 +76,12 @@
 
 ## <a href="https://dev.to/ganeshstwt"></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
-* [A Complete Guide to Linux for Beginners](https://patilganesh1010.hashnode.dev/a-complete-guide-to-hackthebox)
-* [How to Make Money As a Technical Writer](https://patilganesh1010.hashnode.dev/a-complete-guide-to-make-money-as-a-technical-writer)
+* [A Complete Guide to Linux for Beginners](https://devgancode.hashnode.dev/a-complete-guide-to-hackthebox)
+* [How to Make Money As a Technical Writer](https://devgancode.hashnode.dev/a-complete-guide-to-make-money-as-a-technical-writer)
 * [How to install and configure Devlake?](https://aviyel.com/post/3411)
-* [How to Master the Art of Content Creation](https://patilganesh1010.hashnode.dev/how-to-master-the-art-of-content-creation-as-a-developer)
-* [How to Get Internship As a Developer](https://patilganesh1010.hashnode.dev/right-approach-to-get-internship-as-a-developer)
-* [Community Manager Role Insights ](https://patilganesh1010.hashnode.dev/community-manager-role-insights)
+* [How to Master the Art of Content Creation](https://devgancode.hashnode.dev/how-to-master-the-art-of-content-creation-as-a-developer)
+* [How to Get Internship As a Developer](https://devgancode.hashnode.dev/right-approach-to-get-internship-as-a-developer)
+* [Community Manager Role Insights ](https://devgancode.hashnode.dev/community-manager-role-insights)
 
 
 
