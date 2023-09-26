@@ -6,7 +6,7 @@
 <h1 align="center"> Hey👋 I'm <a href="https://devgan.me"> Ganesh Patil </a> </h1>
 
 <p align="center">
-  <a href="https://patilganesh1010.hashnode.dev/">My Blog</a> |
+  <a href="https://devgancode.hashnode.dev/">My Blog</a> |
   <a href="https://twitter.com/devgancode">Twitter</a> |
   <a href="https://www.linkedin.com/in/devgancode/">LinkedIn</a> |
   <a href="https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ">YouTube</a> |
@@ -26,7 +26,7 @@
 - Built 1000+ audience on [Dev Community](https://dev.to/patilganesh1010) with 40k+ unique visitors.✍🏻
 - Exploring open-source communities and creating content through articles, blogs, videos & tutorials! 🏆
 - Sharing my knowledge on [YouTube Channel](https://www.youtube.com/@GaneshsYT)
-- Writing Code & Creating Content for Community. 🎯
+- Writing Code and creating Content for Community. 🎯
  
 </td><td valign="top" width="25%">
 
@@ -35,10 +35,10 @@
 ## 🖥️ Fav Tech Stack
 
 - React
-- Flowbite
+- Next
 - Python
 - Node.js
-- Java
+- Docker
 - SQL
  
 </tr></tr></table>
