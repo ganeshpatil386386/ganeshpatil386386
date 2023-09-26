@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://patilganesh1010.hashnode.dev/">My Blog</a> |
-  <a href="https://twitter.com/ganeshstwt">Twitter</a> |
-  <a href="https://www.linkedin.com/in/ganeshpatil386386/">LinkedIn</a> |
+  <a href="https://twitter.com/devgancode">Twitter</a> |
+  <a href="https://www.linkedin.com/in/devgancode/">LinkedIn</a> |
   <a href="https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ">YouTube</a> |
   <a href="https://www.polywork.com/patilganesh1010"> Polywork Profile </a>
 </p>
