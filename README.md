@@ -35,10 +35,10 @@
 
 - React
 - Next
-- Python
 - Node.js
-- Docker
 - SQL
+- Docker
+- AWS
  
 </tr></tr></table>
 
