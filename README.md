@@ -60,8 +60,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-## <a href="https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
- 
+## <a href="https://www.youtube.com/channel/UCjMse2JYXPbtlzcnkbXmVQQ"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube       
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to Find Perfect Developer Roadmap](https://www.youtube.com/watch?v=52biDlBTrhQ&t=206s)
 - [All About Community Work](https://www.youtube.com/watch?v=gxsGZ22oKvI&t=44s)
