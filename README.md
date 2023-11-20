@@ -21,11 +21,11 @@
 
 ## 👨🏻‍🏫 About Me 
 
-- I am a Computer Science student from India. 👩🏻‍💻
-- Built 1000+ audience on [Dev Community](https://dev.to/devgancode) with 40k+ unique visitors.✍🏻
-- Exploring open-source communities and creating content through articles, blogs, videos & tutorials! 🏆
-- Sharing my knowledge on [YouTube Channel](https://www.youtube.com/@devgancode)
-- Writing Code and creating Content for Community. 🎯
+- Backend Developer from India. 👩🏻‍💻
+- Writing Blogs on [Dev Community](https://dev.to/devgancode) ✍🏻
+- Contributing to open-source Projects!
+- Documenting Journey on [YouTube Channel](https://www.youtube.com/@devgancode)
+- Writing Code and Creating Content.🎯
  
 </td><td valign="top" width="25%">
 
