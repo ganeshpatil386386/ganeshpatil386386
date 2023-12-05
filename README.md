@@ -1,4 +1,4 @@
-### Hi I'm Ganesh 
+### Hi, I'm Ganesh
 - 👩‍💻 JavaScript & Python [Fullstack Developer](https://ganeshpatil386386.github.io/)
 - 🎯 Exploring Backend Development in depth.
 - ✍🏻 Documenting everything on [Youtube](https://www.youtube.com/@devgancode)
