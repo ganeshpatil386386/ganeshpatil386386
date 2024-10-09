@@ -9,11 +9,11 @@
 - 📌 Shoot DM on [Twitter](https://twitter.com/devgancode)
 - ✨ All articles available [here!](https://devgancode-blogs.vercel.app/)
 
+<div align="left">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCjMse2JYXPbtlzcnkbXmVQQ?style=flat-square&color=blue&label=Subscribers&logo=youtube&logoColor=white" alt="YouTube Subscribers" />
+    <img src="https://img.shields.io/badge/followers-1360-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter Followers" />
+</div>
 
-<p align="left">
-<a href="https://twitter.com/devgancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devgancode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ganeshsyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ganeshsyt" height="30" width="40" /></a>
-</p>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
