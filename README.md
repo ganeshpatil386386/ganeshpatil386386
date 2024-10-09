@@ -1,13 +1,17 @@
-### Hey, I'm Ganesh 👋
+### Hey there! I'm Ganesh 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshpatil386386&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshpatil386386" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshpatil386386&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 👩‍💻 JavaScript & Python
-  [Fullstack Developer](https://ganeshpatil386386.github.io/)
-- 🎯 Backend and DevOps enthusiast.
-- ✍🏻 Documenting journey on [Youtube](https://www.youtube.com/@devgancode)
-- 📌 Shoot DM on [Twitter](https://twitter.com/devgancode)
-- ✨ All articles available [here!](https://devgancode-blogs.vercel.app/)
+- 👩‍💻 **Fullstack Developer** [Portfolio!](https://ganeshpatil386386.github.io/)
+  
+- 🎯 **Backend and DevOps Enthusiast**.
+  
+- ✍🏻 **Video Content** [YouTube](https://www.youtube.com/@devgancode)
+
+- ✨ **Blogs** [here!](https://blog-devgancode.vercel.app/)
+  
+- 📌 **Shoot DM** [Twitter](https://twitter.com/devgancode)
+
 
 
 <!--START_SECTION:activity-->
