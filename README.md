@@ -9,10 +9,6 @@
 - 📌 Shoot DM on [Twitter](https://twitter.com/devgancode)
 - ✨ All articles available [here!](https://devgancode-blogs.vercel.app/)
 
-<div align="left">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCjMse2JYXPbtlzcnkbXmVQQ?style=flat-square&color=blue&label=Subscribers&logo=youtube&logoColor=white" alt="YouTube Subscribers" />
-    <img src="https://img.shields.io/badge/followers-1360-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter Followers" />
-</div>
 
 <!--START_SECTION:activity-->
 
