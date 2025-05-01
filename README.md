@@ -5,7 +5,7 @@
 - 🥑 Developer Advocate [Bruno](https://www.usebruno.com/)
 - 🎯 Backend & DevOps [Portfolio](https://ganeshpatil386386.github.io/)  
 - 📷 Video Content [YouTube](https://www.youtube.com/@devgancode)
-- ✍🏻 Written Content [Blogs](https://blog-devgancode.vercel.app/)  
+- ✍🏻 Written Content [Blogs](https://dev.to/devgancode)  
 - 📌 Shoot DM [Twitter](https://twitter.com/devgancode)
 
 
